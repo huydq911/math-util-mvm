@@ -28,7 +28,7 @@ public class MathUtility {
         }
         //sống đến chỗ này, sure n = 2..20 Vì nếu ko chết dọc đường ở
         //2 cụm if ở trên rồi, KO CẦN ELSE NẾU TRC ĐÓ XÀI RETURN
-        long result = 1; // giai thừa khởi đầu là 1
+        long result = 10; // giai thừa khởi đầu là 1
         //nhân dồn 2 3 4 5...n vào biến này thì thành n!
 
         for (int i = 2; i <= n; i++) {
